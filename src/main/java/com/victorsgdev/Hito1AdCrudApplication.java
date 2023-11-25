@@ -10,8 +10,7 @@ public class Hito1AdCrudApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(Hito1AdCrudApplication.class, args);
-
-
 	}
-
 }
+//https://github.com/DamilolaAdegunwa/victorsgDev-CRUD-SpringMVC-cleanArchitecture-Thymeleaf
+//https://github.com/victorsgDev/CRUD-SpringMVC-cleanArchitecture-Thymeleaf
